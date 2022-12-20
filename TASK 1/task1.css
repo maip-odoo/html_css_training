@@ -1,0 +1,30 @@
+.a{
+    background-color:bisque ;
+
+}
+#my
+{
+    font-size: x-large;
+    transition: all 1S ease-in-out;
+}
+#my:hover
+{
+    background: rgb(179, 84, 166);
+}
+#B
+{
+    font-size: x-large;
+}
+#c_aboutme
+{
+    font-size: x-large;
+    background-color: rgb(172, 90, 192);
+}
+#d_FEEDBACK
+{
+    font-size: x-large;
+}
+#header
+{
+    text-align: center;
+}
